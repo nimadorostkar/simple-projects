@@ -4,8 +4,7 @@ simple and easy projects just for fun ( calculator, snake, Tic-tac-toe, ... )
 
 
 
-
-==================================   demo images   ==================================
+==============================   demo images   ==============================
 
 
 ![](https://raw.githubusercontent.com/nimadorostkar/simple-projects/master/demo%20(1).jpg)
