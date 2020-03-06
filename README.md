@@ -2,5 +2,4 @@
 simple and easy projects just for fun ( calculator, snake, Tic-tac-toe, ... )
 
 
-![Alt text](demo (1).jpg?raw=true "Title")
-
+![](https://raw.githubusercontent.com/nimadorostkar/simple-projects/master/demo%20(1).jpg)
