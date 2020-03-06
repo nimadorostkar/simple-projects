@@ -1,10 +1,11 @@
 # simple-projects
 simple and easy projects just for fun ( calculator, snake, Tic-tac-toe, ... )
- یه سری پروژه ساده فقط واسه سرگرمی
+
+# یه سری پروژه ساده فقط واسه سرگرمی
 
 
 
-==============================   demo images   ==============================
+ =========================   demo images   ========================
 
 
 ![](https://raw.githubusercontent.com/nimadorostkar/simple-projects/master/demo%20(1).jpg)
